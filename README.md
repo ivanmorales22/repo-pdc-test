@@ -3,4 +3,4 @@ Repositorio que contiene archivos para aprender las operaciones mas comunes de G
 
 # New Change in the Readme
 
-Este es un nuevo cambio introducido desde el repositorio local
+Este es un nuevo cambio introducido desde el repositorio local, actualizacion directamente desde github
